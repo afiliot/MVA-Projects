@@ -1,3 +1,27 @@
 [submodule "Geometrical-Forms-Classification"]
 	path = Geometrical-Forms-Classification
 	url = https://github.com/afiliot/Geometrical-Forms-Classification.git
+[submodule "Mutlingual-Words-Embedding"]
+	path = Mutlingual-Words-Embedding
+	url = https://github.com/afiliot/Mutlingual-Words-Embedding.git
+[submodule "GANs-And-VAEs-For-Gaussian-Mixture"]
+	path = GANs-And-VAEs-For-Gaussian-Mixture
+	url = https://github.com/afiliot/GANs-And-VAEs-For-Gaussian-Mixture.git
+[submodule "Deep-Reinforcement-Learning-For-Rats"]
+	path = Deep-Reinforcement-Learning-For-Rats
+	url = https://github.com/afiliot/Deep-Reinforcement-Learning-For-Rats.git
+[submodule "Image-Retrieval-On-Oxford-Dataset"]
+	path = Image-Retrieval-On-Oxford-Dataset
+	url = https://github.com/afiliot/Image-Retrieval-On-Oxford-Dataset.git
+[submodule "Bayesian-Personalization-Of-A-Tumor-Growth-Model"]
+	path = Bayesian-Personalization-Of-A-Tumor-Growth-Model
+	url = https://github.com/afiliot/Bayesian-Personalization-Of-A-Tumor-Growth-Model.git
+[submodule "Deep-Learning-For-Very-Small-Data"]
+	path = Deep-Learning-For-Very-Small-Data
+	url = https://github.com/afiliot/Deep-Learning-For-Very-Small-Data.git
+[submodule "Kernel-Methods-For-Genomics"]
+	path = Kernel-Methods-For-Genomics
+	url = https://github.com/afiliot/Kernel-Methods-For-Genomics.git
+[submodule "Information-Directed-Sampling-For-Multi-Arm-Bandit-Problems"]
+	path = Information-Directed-Sampling-For-Multi-Arm-Bandit-Problems
+	url = https://github.com/afiliot/Information-Directed-Sampling-For-Multi-Arm-Bandit-Problems.git
